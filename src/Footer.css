@@ -1,0 +1,12 @@
+.footer{
+    background: #161619;
+border-radius: 0px 0px 10px 10px;
+display: flex;
+justify-content: center;
+gap: 24px;
+padding: 1.5rem 0;
+}
+.footer--icon{
+    width: 25px;
+    height: 25px;
+}
